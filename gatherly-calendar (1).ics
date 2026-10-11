@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gatherly//Event Calendar//EN
+BEGIN:VEVENT
+UID:gatherly-5@example.local
+DTSTART:20261028T110000
+SUMMARY:Web Development Meetup
+LOCATION:Tech Community Hall  Chennai
+DESCRIPTION:Share web development ideas and meet other developers.
+END:VEVENT
+BEGIN:VEVENT
+UID:gatherly-11@example.local
+DTSTART:20261031T050000
+SUMMARY:Battle of the Bands
+LOCATION:YMCA Grounds  Nandanam  Chennai
+DESCRIPTION:Enjoy exciting live performances as talented student bands compete for the title.
+END:VEVENT
+BEGIN:VEVENT
+UID:gatherly-10@example.local
+DTSTART:20261025T070000
+SUMMARY:Fitness Challenge
+LOCATION:ABC College Sports Ground
+DESCRIPTION:Participate in fun fitness activities  challenge yourself  and build healthy habits.
+END:VEVENT
+END:VCALENDAR
